@@ -1,0 +1,7 @@
+D:\Олимпиада\№3\№3\bin\Debug\№3.exe.config
+D:\Олимпиада\№3\№3\bin\Debug\№3.exe
+D:\Олимпиада\№3\№3\bin\Debug\№3.pdb
+D:\Олимпиада\№3\№3\obj\Debug\№3.csproj.CoreCompileInputs.cache
+D:\Олимпиада\№3\№3\obj\Debug\№3.exe
+D:\Олимпиада\№3\№3\obj\Debug\№3.pdb
+D:\Олимпиада\№3\№3\obj\Debug\№3.csprojAssemblyReference.cache
